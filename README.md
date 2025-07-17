@@ -33,26 +33,65 @@ PitchWise is an intelligent startup evaluation tool that enables aspiring entrep
 
   <br>
 
-  🔹 **1. Home Page** – Landing interface of PitchWise  
-  ![](./screenshots/1.png)
+## 📸 Screenshots
 
-  🔹 **2. Startup Idea Submission** – Input box to submit your startup idea  
-  ![](./screenshots/2.png)
+### 🏠 Home Page
+![Home](./screenshots/1.png)  
+Clean and modern landing page highlighting the power of local AI and manual scoring for startup evaluations.
 
-  🔹 **3. Manual Evaluation** – Rate the idea on parameters like Innovation, Team, Revenue  
-  ![](./screenshots/3.png)
+---
 
-  🔹 **4. AI Evaluation Prompt** – AI analyzes the idea using a local LLM  
-  ![](./screenshots/4.png)
+### ⚙️ Choose Your Evaluation Method
+![Evaluation Options](./screenshots/2.png)  
+Users can choose between:
+- **Manual Evaluation** (score key metrics)
+- **AI Evaluation** (get insights from local AI)
+- **Startup Ideas** (explore innovative ideas)
 
-  🔹 **5. LLM Evaluation Result** – AI gives scores and suggestions based on Mistral  
-  ![](./screenshots/5.png)
+---
 
-  🔹 **6. PDF Report Generation** – One-click button to download detailed evaluation  
-  ![](./screenshots/6.png)
+### 🔄 How It Works
+![How It Works](./screenshots/3.png)  
+Simple 3-step process:
+1️⃣ Choose your method  
+2️⃣ Input your idea  
+3️⃣ Get actionable insights
 
-  🔹 **7. Dashboard Overview** – Complete interface showing scores, insights, and options  
-  ![](./screenshots/7.png)
+---
+
+### ❓ Why Choose PitchWise
+![Why PitchWise](./screenshots/4.png)  
+Key highlights:
+- ✅ 100% Privacy-First  
+- ⚡ Lightning Fast (local model)  
+- 🧠 Expert Insights  
+- 📊 Actionable Results
+
+---
+
+### 📝 Manual Startup Evaluation
+![Manual Evaluation](./screenshots/5.png)  
+Rate your startup on critical dimensions:  
+- Innovation  
+- Scalability  
+- Market Demand  
+- Revenue Potential  
+- Team Capability  
+➡️ Get an overall score and generate a **PDF Report**
+
+---
+
+### 🤖 AI Evaluation (Powered by Ollama + Mistral)
+![AI Evaluation](./screenshots/6.png)  
+Enter your startup description and get AI-powered insights – all running locally for complete privacy.
+
+---
+
+### 💡 Startup Ideas & Inspiration
+![Startup Ideas](./screenshots/7.png)  
+Browse trending startup ideas categorized by:
+- FinTech, EdTech, HealthTech, Green Tech, SaaS, and more  
+Each idea includes difficulty level and a brief concept summary.
 
 </details>
 
