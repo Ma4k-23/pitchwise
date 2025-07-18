@@ -103,7 +103,7 @@ Each idea includes difficulty level and a brief concept summary.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Ma4k-23/pitchwise.git
+git clone https://github.com/Ma4k-23/PitchWise.git
 cd pitchwise
 
 2. Setup and Run Backend
